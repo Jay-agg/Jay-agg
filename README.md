@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jayant Aggarwal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Hey! I'm Jayant 
 
-<p align="left"> <a href="https://twitter.com/jayantftx" target="blank"><img src="https://img.shields.io/twitter/follow/jayantftx?logo=twitter&style=for-the-badge" alt="jayantftx" /></a> </p>
+## Software Engineer
 
-- 👨‍💻 All of my projects are available at [https://jayantaggarwal.vercel.app/](https://jayantaggarwal.vercel.app/)
+- Based in **New Delhi, India**.
+- See my portfolio at [**Jayant Aggarwal**](https://jayantaggarwal.vercel.app/).
+- Reach out to me [**Email**](mailto:jayantaggarwal021@gmail.com) or [**Twitter**](https://x.com/jayantftx).
+- Working with **MERN, NextJS, Typescript** nowadays!
 
-- 💬 Ask me about **NextJS, ReactJS, MERN, TypeScript, JS**
+## Tools & Technologies
 
-- 📫 How to reach me **jayantaggarwal021@gmail.com**
+- **Languages**: Java, Javascript/TypeScript.
+- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
+- **Platforms**: GitHub, Vercel.
+- **Databases**: MongoDB, PostgreSQL.
+- **ORM**: Drizzle, Prisma.
+- **Misc**: Docker, TailwindCSS, Zustand.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jayantftx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayantftx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayant-aggarwal-418910248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayant-aggarwal-418910248/" height="30" width="40" /></a>
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal2-3&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal2-3" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal2-3&" alt="prajjwal2-3" /></p>
