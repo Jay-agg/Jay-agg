@@ -1,11 +1,15 @@
 # Hey! I'm Jayant 
 
-## Software Engineer
+## Software Developer
 
-- Based in **New Delhi, India**.
-- See my portfolio at [**Jayant Aggarwal**](https://jayantaggarwal.vercel.app/).
-- Reach out to me [**Email**](mailto:jayantaggarwal021@gmail.com) or [**Twitter**](https://x.com/jayantftx).
-- Working with **MERN, NextJS, Typescript** nowadays!
+- My Portfolio: [**Jayant Aggarwal**](https://jayantaggarwal.vercel.app/).
+
+## Reach me out at:
+
+- [**Email**](mailto:jayantaggarwal021@gmail.com)
+- [**Twitter**](https://x.com/jayantftx).
+- [**LinkedIn**](https://linkedin.com/jayant-aggarwal)
+
 
 ## Tools & Technologies
 
