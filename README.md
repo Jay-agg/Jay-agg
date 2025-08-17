@@ -13,12 +13,12 @@
 
 ## Tools & Technologies
 
-- **Languages**: Java, Javascript/TypeScript.
+- **Languages**: Java, Javascript/TypeScript, Go.
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
 - **Platforms**: GitHub, Vercel.
 - **Databases**: MongoDB, PostgreSQL.
 - **ORM**: Drizzle, Prisma.
-- **Misc**: Docker, TailwindCSS, Zustand.
+- **Misc**: Docker, TailwindCSS, Zustand, ReactQuery.
 
 
 
