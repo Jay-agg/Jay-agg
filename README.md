@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-- My Portfolio: [**Jayant Aggarwal**](https://jayantaggarwal.vercel.app/).
+- My Portfolio: [**Jayant Aggarwal**](https://jayantagg.com/).
 
 ## Reach me out at:
 
