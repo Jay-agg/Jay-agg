@@ -18,7 +18,7 @@
 - **Platforms**: GitHub, Vercel.
 - **Databases**: MongoDB, PostgreSQL.
 - **ORM**: Drizzle, Prisma.
-- **Misc**: Docker, TailwindCSS, Zustand, ReactQuery.
+- **Misc**: Docker, TailwindCSS, Zustand, ReactQuery, Redis.
 
 
 
