@@ -7,7 +7,7 @@
 ## Reach me out at:
 
 - [**Email**](mailto:jayantaggarwal021@gmail.com)
-- [**Twitter**](https://x.com/jayantftx).
+- [**Twitter**](https://x.com/jayantftx)
 - [**LinkedIn**](https://linkedin.com/jayant-aggarwal)
 
 
