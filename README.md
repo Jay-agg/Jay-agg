@@ -14,7 +14,7 @@
 ## Tools & Technologies
 
 - **Languages**: Java, Javascript/TypeScript, Go.
-- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
+- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js, Nest.JS. 
 - **Platforms**: GitHub, Vercel.
 - **Databases**: MongoDB, PostgreSQL.
 - **ORM**: Drizzle, Prisma.
